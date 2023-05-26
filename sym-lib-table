@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Connector_Dsub")(type "KiCad")(uri "${KIPRJMOD}/libraries/Connector_Dsub.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom_logos")(type "KiCad")(uri "${KIPRJMOD}/libraries/Custom_logos.kicad_sym")(options "")(descr ""))
+)
