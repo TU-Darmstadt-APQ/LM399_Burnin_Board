@@ -9448,6 +9448,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Enable" "0"
+			(at 0 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "main"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077"
