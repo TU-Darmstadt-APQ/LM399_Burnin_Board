@@ -1888,6 +1888,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "Yes "
+			(at 73.66 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –40 °C to 125 °C"
+			(at 73.66 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fc366ff2-6bf8-4ea8-a27c-ab7a744e37a6")
 		)
@@ -2019,6 +2037,24 @@
 			)
 		)
 		(property "PN" "C0603C104K5RACAUTO"
+			(at 57.15 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 57.15 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 155 °C"
 			(at 57.15 100.33 0)
 			(effects
 				(font
@@ -2584,7 +2620,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-000061946341")
-		(property "Sheetname" "sheet6194633C"
+		(property "Sheetname" "Reference 3"
 			(at 49.53 33.5784 0)
 			(effects
 				(font
@@ -2694,7 +2730,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-00006196039f")
-		(property "Sheetname" "sheet6196039A"
+		(property "Sheetname" "Reference 1"
 			(at 104.14 33.5784 0)
 			(effects
 				(font
@@ -2804,7 +2840,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-0000619606cf")
-		(property "Sheetname" "sheet619606CA"
+		(property "Sheetname" "Reference 2"
 			(at 158.75 33.5784 0)
 			(effects
 				(font
@@ -2914,7 +2950,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-0000619609f7")
-		(property "Sheetname" "sheet619609F2"
+		(property "Sheetname" "Reference 4"
 			(at 213.36 33.5784 0)
 			(effects
 				(font

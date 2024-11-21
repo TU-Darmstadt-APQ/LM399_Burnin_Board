@@ -557,19 +557,31 @@
           "group_by": false,
           "label": "MFN",
           "name": "MFN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "PN",
           "name": "PN",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Temperature",
+          "name": "Temperature",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "RoHS",
+          "name": "RoHS",
+          "show": true
         }
       ],
       "filter_string": "",
@@ -634,87 +646,87 @@
     ],
     [
       "00000000-0000-0000-0000-000061945b55",
-      "Reference Block 1"
+      "Reference Block 6"
     ],
     [
       "00000000-0000-0000-0000-000061946341",
-      "sheet6194633C"
+      "Reference 3"
     ],
     [
       "00000000-0000-0000-0000-000061946341",
-      "sheet6194633C"
+      "Reference 3"
     ],
     [
       "00000000-0000-0000-0000-000061946341",
-      "sheet6194633C"
+      "Reference 3"
     ],
     [
       "00000000-0000-0000-0000-000061946341",
-      "sheet6194633C"
+      "Reference 3"
     ],
     [
       "00000000-0000-0000-0000-000061946341",
-      "sheet6194633C"
+      "Reference 3"
     ],
     [
       "00000000-0000-0000-0000-00006196039f",
-      "sheet6196039A"
+      "Reference 1"
     ],
     [
       "00000000-0000-0000-0000-00006196039f",
-      "sheet6196039A"
+      "Reference 1"
     ],
     [
       "00000000-0000-0000-0000-00006196039f",
-      "sheet6196039A"
+      "Reference 1"
     ],
     [
       "00000000-0000-0000-0000-00006196039f",
-      "sheet6196039A"
+      "Reference 1"
     ],
     [
       "00000000-0000-0000-0000-00006196039f",
-      "sheet6196039A"
+      "Reference 1"
     ],
     [
       "00000000-0000-0000-0000-0000619606cf",
-      "sheet619606CA"
+      "Reference 2"
     ],
     [
       "00000000-0000-0000-0000-0000619606cf",
-      "sheet619606CA"
+      "Reference 2"
     ],
     [
       "00000000-0000-0000-0000-0000619606cf",
-      "sheet619606CA"
+      "Reference 2"
     ],
     [
       "00000000-0000-0000-0000-0000619606cf",
-      "sheet619606CA"
+      "Reference 2"
     ],
     [
       "00000000-0000-0000-0000-0000619606cf",
-      "sheet619606CA"
+      "Reference 2"
     ],
     [
       "00000000-0000-0000-0000-0000619609f7",
-      "sheet619609F2"
+      "Reference 4"
     ],
     [
       "00000000-0000-0000-0000-0000619609f7",
-      "sheet619609F2"
+      "Reference 4"
     ],
     [
       "00000000-0000-0000-0000-0000619609f7",
-      "sheet619609F2"
+      "Reference 4"
     ],
     [
       "00000000-0000-0000-0000-0000619609f7",
-      "sheet619609F2"
+      "Reference 4"
     ],
     [
       "00000000-0000-0000-0000-0000619609f7",
-      "sheet619609F2"
+      "Reference 4"
     ],
     [
       "00000000-0000-0000-0000-000061977754",
@@ -730,7 +742,7 @@
     ],
     [
       "00000000-0000-0000-0000-00006197beb8",
-      "Reference Block 5"
+      "Reference Block 1"
     ]
   ],
   "text_variables": {}
