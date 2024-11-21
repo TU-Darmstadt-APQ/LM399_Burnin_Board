@@ -8118,7 +8118,7 @@
 			(uuid "5f5e3199-55a5-46ad-a0d9-d3ca3812a50c")
 		)
 		(instances
-			(project "main"
+			(project "lm399_burnin_board"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077"
 					(reference "J1")
 					(unit 1)

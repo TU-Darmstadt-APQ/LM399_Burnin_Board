@@ -1931,7 +1931,7 @@
 			(uuid "04e84e07-bb4e-403b-bd61-9b65341d9b53")
 		)
 		(instances
-			(project "main"
+			(project "lm399_burnin_board"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077/00000000-0000-0000-0000-000061945b55"
 					(reference "U1")
 					(unit 5)

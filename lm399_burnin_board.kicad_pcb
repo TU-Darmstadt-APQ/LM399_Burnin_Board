@@ -443,7 +443,7 @@
 		)
 		(path "/00000000-0000-0000-0000-0000620f2b31")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0.25 0.5)
@@ -660,7 +660,7 @@
 		)
 		(path "/00000000-0000-0000-0000-0000620f1bdc")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_poly
 			(pts
@@ -3960,7 +3960,7 @@
 		(property ki_fp_filters "*NTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*")
 		(path "/00000000-0000-0000-0000-00006213e796")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -6636,7 +6636,7 @@
 		(property ki_fp_filters "Net*Tie*")
 		(path "/00000000-0000-0000-0000-000061d13f89")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 		(net_tie_pad_groups "1, 2")
 		(fp_poly
@@ -6761,7 +6761,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061c8fe9e")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -10771,7 +10771,7 @@
 		(property ki_fp_filters "TO?220* TO?263*")
 		(path "/00000000-0000-0000-0000-000061c0c945")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.66 -3.27)
@@ -14412,7 +14412,7 @@
 		(property ki_fp_filters "DSUB*Female*")
 		(path "/00000000-0000-0000-0000-00006199f00f")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 22.35 -3.154338)
@@ -23773,7 +23773,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/00000000-0000-0000-0000-000061c64b4a")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 2.58 -5.08)
@@ -26009,7 +26009,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000061c901f2")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 -0.91)
@@ -26515,7 +26515,7 @@
 		(property ki_fp_filters "*NTC* *Thermistor* PIN?ARRAY* bornier* *Terminal?Block* R_*")
 		(path "/00000000-0000-0000-0000-0000621404aa")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -28077,7 +28077,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/00000000-0000-0000-0000-000061c7db97")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 2.58 -5.08)
@@ -30825,7 +30825,7 @@
 		(property ki_fp_filters "DIN41612*2x*")
 		(path "/00000000-0000-0000-0000-00006189d0b5")
 		(sheetname "Root")
-		(sheetfile "main.kicad_sch")
+		(sheetfile "lm399_burnin_board.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 86.63 -4.74)
