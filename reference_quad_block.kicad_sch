@@ -708,9 +708,9 @@
 		)
 		(symbol "power:GND"
 			(power)
+			(pin_numbers hide)
 			(pin_names
-				(offset 0)
-			)
+				(offset 0) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -784,8 +784,8 @@
 			(symbol "GND_1_1"
 				(pin power_in line
 					(at 0 0 270)
-					(length 0) hide
-					(name "GND"
+					(length 0)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -867,7 +867,7 @@
 				(pin power_out line
 					(at 0 0 90)
 					(length 0)
-					(name "pwr"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2102,7 +2102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 57.15 109.22 0)
 			(effects
 				(font
@@ -2292,7 +2292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 88.9 138.43 0)
 			(effects
 				(font
@@ -2373,7 +2373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 78.74 130.81 0)
 			(effects
 				(font
@@ -2454,7 +2454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 106.68 130.81 0)
 			(effects
 				(font
@@ -2535,7 +2535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 95.25 121.92 0)
 			(effects
 				(font
@@ -2663,7 +2663,7 @@
 			(uuid "f44d04c5-0d17-4d52-8328-ef3b4fdfba5f")
 		)
 		(instances
-			(project "main"
+			(project "lm399_burnin_board"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077/00000000-0000-0000-0000-000061945b55"
 					(page "3")
 				)
@@ -2773,7 +2773,7 @@
 			(uuid "f345e52a-8e0a-425a-b438-90809dd3b799")
 		)
 		(instances
-			(project "main"
+			(project "lm399_burnin_board"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077/00000000-0000-0000-0000-000061945b55"
 					(page "12")
 				)
@@ -2883,7 +2883,7 @@
 			(uuid "a599509f-fbb9-4db4-9adf-9e96bab1138d")
 		)
 		(instances
-			(project "main"
+			(project "lm399_burnin_board"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077/00000000-0000-0000-0000-000061945b55"
 					(page "16")
 				)
@@ -2993,7 +2993,7 @@
 			(uuid "7f2b3ce3-2f20-426d-b769-e0329b6a8111")
 		)
 		(instances
-			(project "main"
+			(project "lm399_burnin_board"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077/00000000-0000-0000-0000-000061945b55"
 					(page "20")
 				)
