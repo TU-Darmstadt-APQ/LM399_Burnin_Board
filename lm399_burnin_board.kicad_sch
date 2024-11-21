@@ -8169,7 +8169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "~"
 			(at 182.88 80.01 0)
 			(effects
 				(font
@@ -9245,7 +9245,7 @@
 		(lib_id "Custom_logos:Logo_APQ")
 		(at 256.54 171.45 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -9314,15 +9314,6 @@
 			)
 		)
 		(property "PN" ""
-			(at 256.54 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" "0"
 			(at 256.54 171.45 0)
 			(effects
 				(font
@@ -9943,7 +9934,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-000061977754")
-		(property "Sheetname" "sheet61977749"
+		(property "Sheetname" "Reference Block 2"
 			(at 121.92 53.8984 0)
 			(effects
 				(font
@@ -10081,7 +10072,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-000061977b94")
-		(property "Sheetname" "sheet61977B89"
+		(property "Sheetname" "Reference Block 3"
 			(at 121.92 90.7284 0)
 			(effects
 				(font
@@ -10219,7 +10210,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-00006197812a")
-		(property "Sheetname" "sheet6197811F"
+		(property "Sheetname" "Reference Block 4"
 			(at 121.92 127.5584 0)
 			(effects
 				(font
@@ -10357,7 +10348,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-00006197beb8")
-		(property "Sheetname" "sheet6197BEAD"
+		(property "Sheetname" "Reference Block 5"
 			(at 121.92 164.3884 0)
 			(effects
 				(font

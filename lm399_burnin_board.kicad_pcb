@@ -77235,6 +77235,18 @@
 			)
 		)
 	)
+	(gr_text "Manufacturing Instruction:\n- Material FR-4\n- Finished thickness: 1.57 mm ± 0.13 mm\n- Surface finish: ENIG\n- PCBs are to be RoHS compliant\n- Do not edit artwork, e.g. to add logos\n   or order numbers\n- Clean to meet IPC J-STD-001E, Class 2\n   after assembly"
+		(at 215 41 0)
+		(layer "Cmts.User")
+		(uuid "00000000-0000-0000-0000-0000619529ab")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+			)
+			(justify left)
+		)
+	)
 	(gr_text "D01 -> CH1\nD02 -> CH8\nD03 -> CH15\nD04 -> CH2\nD05 -> CH9\nD06 -> CH16\nD07 -> CH3\nD08 -> CH10\nD09 -> CH17\nD10 -> CH4\nD11 -> CH11\nD12 -> CH18\nD13 -> CH5\nD14 -> CH12\nD15 -> CH19\nD16 -> CH6\nD17 -> CH13\nD18 -> CH20\nD19 -> CH7\nD20 -> CH14"
 		(at 161 37 0)
 		(layer "Cmts.User")
@@ -77311,18 +77323,6 @@
 		(at 220 75 0)
 		(layer "F.Fab")
 		(uuid "00000000-0000-0000-0000-0000619529aa")
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-			)
-			(justify left)
-		)
-	)
-	(gr_text "Manufacturing Instruction:\n- Material FR-4\n- Finished thickness: 1.57 mm ± 0.13 mm\n- Surface finish: ENIG\n- PCBs are to be RoHS compliant\n- Do not edit artwork, e.g. to add logos\n   or order numbers\n- Clean to meet IPC J-STD-001E, Class 2\n   after assembly"
-		(at 215 41 0)
-		(layer "F.Fab")
-		(uuid "00000000-0000-0000-0000-0000619529ab")
 		(effects
 			(font
 				(size 2 2)
