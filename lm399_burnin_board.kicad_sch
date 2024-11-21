@@ -7864,7 +7864,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006189d0b5")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 26.67 60.325 0)
 			(effects
 				(font
@@ -8129,7 +8129,7 @@
 		(instances
 			(project "lm399_burnin_board"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -8144,7 +8144,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00006199f00f")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 207.01 41.91 0)
 			(effects
 				(font
@@ -8169,7 +8169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" " ~"
+		(property "Datasheet" "~"
 			(at 182.88 80.01 0)
 			(effects
 				(font
@@ -8361,7 +8361,7 @@
 		(instances
 			(project "main"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -8441,7 +8441,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000061c0c945")
-		(property "Reference" "U26"
+		(property "Reference" "U21"
 			(at 62.23 16.51 0)
 			(effects
 				(font
@@ -8515,7 +8515,7 @@
 		(instances
 			(project "main"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077"
-					(reference "U26")
+					(reference "U21")
 					(unit 1)
 				)
 			)
@@ -8530,7 +8530,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000061c64b4a")
-		(property "Reference" "C106"
+		(property "Reference" "C25"
 			(at 50.8 30.48 0)
 			(effects
 				(font
@@ -8602,7 +8602,7 @@
 		(instances
 			(project "main"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077"
-					(reference "C106")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -8700,7 +8700,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000061c7db97")
-		(property "Reference" "C107"
+		(property "Reference" "C26"
 			(at 90.17 30.48 0)
 			(effects
 				(font
@@ -8772,7 +8772,7 @@
 		(instances
 			(project "main"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077"
-					(reference "C107")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -8852,7 +8852,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000061c8fe9e")
-		(property "Reference" "R101"
+		(property "Reference" "R16"
 			(at 76.2 31.75 0)
 			(effects
 				(font
@@ -8924,7 +8924,7 @@
 		(instances
 			(project "main"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077"
-					(reference "R101")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -8939,7 +8939,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000061c901f2")
-		(property "Reference" "R102"
+		(property "Reference" "R15"
 			(at 76.2 43.18 0)
 			(effects
 				(font
@@ -9011,7 +9011,7 @@
 		(instances
 			(project "main"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077"
-					(reference "R102")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -9091,7 +9091,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000061d13f89")
-		(property "Reference" "NT46"
+		(property "Reference" "NT14"
 			(at 100.33 29.21 90)
 			(effects
 				(font
@@ -9145,7 +9145,7 @@
 		(instances
 			(project "main"
 				(path "/6284122b-79c3-4e04-925e-3d32cc3ec077"
-					(reference "NT46")
+					(reference "NT14")
 					(unit 1)
 				)
 			)
@@ -9245,7 +9245,7 @@
 		(lib_id "Custom_logos:Logo_APQ")
 		(at 256.54 171.45 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
@@ -9314,15 +9314,6 @@
 			)
 		)
 		(property "PN" ""
-			(at 256.54 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" "0"
 			(at 256.54 171.45 0)
 			(effects
 				(font
@@ -9943,7 +9934,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-000061977754")
-		(property "Sheetname" "sheet61977749"
+		(property "Sheetname" "Reference Block 2"
 			(at 121.92 53.8984 0)
 			(effects
 				(font
@@ -10081,7 +10072,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-000061977b94")
-		(property "Sheetname" "sheet61977B89"
+		(property "Sheetname" "Reference Block 3"
 			(at 121.92 90.7284 0)
 			(effects
 				(font
@@ -10219,7 +10210,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-00006197812a")
-		(property "Sheetname" "sheet6197811F"
+		(property "Sheetname" "Reference Block 4"
 			(at 121.92 127.5584 0)
 			(effects
 				(font
@@ -10357,7 +10348,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-00006197beb8")
-		(property "Sheetname" "sheet6197BEAD"
+		(property "Sheetname" "Reference Block 5"
 			(at 121.92 164.3884 0)
 			(effects
 				(font
