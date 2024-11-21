@@ -7898,7 +7898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIN41612 connector, double row (AC), 02x32, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 26.67 105.41 0)
 			(effects
 				(font
@@ -7907,7 +7907,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFN" "Erni"
+		(property "MFN" "HARTING"
 			(at 26.67 105.41 0)
 			(effects
 				(font
@@ -7916,7 +7916,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "364914"
+		(property "PN" "09031646921"
 			(at 26.67 105.41 0)
 			(effects
 				(font
@@ -7926,6 +7926,24 @@
 			)
 		)
 		(property "Alternative" "ept 103-40035"
+			(at 26.67 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 26.67 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 125 °C"
 			(at 26.67 105.41 0)
 			(effects
 				(font
@@ -8197,6 +8215,24 @@
 			)
 		)
 		(property "PN" "164A18989X"
+			(at 207.01 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 207.01 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 125 °C"
 			(at 207.01 92.71 0)
 			(effects
 				(font
@@ -8503,6 +8539,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "By exemption"
+			(at 62.23 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –40 °C to 150 °C"
+			(at 62.23 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b7a4a2f-bb1a-4b59-9846-536833eb5013")
 		)
@@ -8585,6 +8639,24 @@
 			)
 		)
 		(property "PN" "UPW2D100MPD1TD"
+			(at 46.99 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 46.99 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 105 °C"
 			(at 46.99 31.75 0)
 			(effects
 				(font
@@ -8763,6 +8835,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 86.36 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 105 °C"
+			(at 86.36 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a761c2b-07fd-433e-a62f-3878d7bc6ba9")
 		)
@@ -8915,6 +9005,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "By exemption"
+			(at 73.66 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 155 °C"
+			(at 73.66 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca28fc4a-2e02-40ed-9735-6a519a143d9c")
 		)
@@ -8994,6 +9102,24 @@
 			)
 		)
 		(property "PN" "RC1206FR-071K5L"
+			(at 73.66 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "By exemption"
+			(at 73.66 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –55 °C to 155 °C"
 			(at 73.66 44.45 0)
 			(effects
 				(font
@@ -9403,6 +9529,24 @@
 				(hide yes)
 			)
 		)
+		(property "RoHS" "Yes"
+			(at 176.53 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –40 °C to 150 °C"
+			(at 176.53 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6f3644fe-8ca4-4cb4-9ae3-3abe51241034")
 		)
@@ -9482,6 +9626,24 @@
 			)
 		)
 		(property "PN" "NTCG163JX103DT1S"
+			(at 186.69 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "RoHS" "Yes"
+			(at 186.69 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temperature" "Tstorage = –40 °C to 150 °C"
 			(at 186.69 134.62 0)
 			(effects
 				(font
@@ -9796,7 +9958,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-000061945b55")
-		(property "Sheetname" "Reference Block 1"
+		(property "Sheetname" "Reference Block 6"
 			(at 121.92 17.0684 0)
 			(effects
 				(font
@@ -10348,7 +10510,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "00000000-0000-0000-0000-00006197beb8")
-		(property "Sheetname" "Reference Block 5"
+		(property "Sheetname" "Reference Block 1"
 			(at 121.92 164.3884 0)
 			(effects
 				(font
